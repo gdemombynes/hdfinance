@@ -106,11 +106,16 @@ The study aims to:
 
 | Dataset | Source | Key Indicators |
 |---------|--------|----------------|
-| BOOST Open Budget Portal | World Bank | Line-item budget execution data, enabling sub-national and functional analysis |
+| BOOST Open Budget Portal | World Bank | Line-item budget execution data, enabling sub-national and functional analysis (~90 countries) |
 | International Debt Statistics | World Bank | Debt service ratios constraining fiscal space for HC |
 | Macro Poverty Outlook | World Bank | GDP growth, fiscal balance, revenue projections |
 | Government Revenue Dataset (GRD) | UNU-WIDER | Tax revenue data for fiscal space analysis |
-| Human Capital Index | World Bank | HCI scores and components for outcome benchmarking |
+| Human Capital Index / Human Capital Data Portal | World Bank | HCI scores and components; cross-sectoral data from WHO, UNESCO, UNICEF, ILO, FAO |
+| Education Finance Watch (EFW) | World Bank / GEM Report / UIS | Global trends in education financing (annual publication) |
+| GEM Report SCOPE | UNESCO | Education progress monitoring including finance indicators |
+| Global Expected Health Spending 2022–2050 | IHME | Forward-looking projections by financing source for 204 countries |
+| SDG Index Dashboard | Bertelsmann Stiftung / SDSN | Combined government spending on health and education (% GDP); SDG benchmarks |
+| SPEED Database | World Bank | Social Protection Expenditure and Evaluation Database (feeds into ASPIRE) |
 
 ---
 
@@ -118,33 +123,36 @@ The study aims to:
 
 ### 5.1 Education
 
-- **Global average public education spending** has hovered around **4.3–4.5% of GDP** over the past decade, but with wide variation: high-income countries average ~5% of GDP, while low-income countries average ~3.5%.
-- As a share of total government expenditure, education spending averages approximately **14–15%** globally. Many low-income countries meet or exceed the benchmark of 15–20% of government expenditure, but low revenue bases mean absolute spending per student remains very low.
-- **Per-pupil spending** in low-income countries is roughly **US$50–100 per year** at primary level, compared to **US$8,000–12,000** in high-income countries — a gap of two orders of magnitude.
-- **Household out-of-pocket spending** on education is substantial in many developing countries, accounting for 30–50% of total education spending in parts of Sub-Saharan Africa and South Asia, creating equity concerns.
-- **Aid to education** has stagnated in real terms; education receives only ~10% of total ODA despite being a stated priority.
-- COVID-19 led to fiscal contractions that squeezed education budgets in many countries during 2020–2021, with incomplete recovery by 2023.
+- **Global average public education spending** fell from **4.16% of GDP** (2019) to **3.51%** (2023), and education's share of total government expenditure has declined by 0.6–0.7 percentage points since 2015 (Education Finance Watch 2024).
+- **By income group:** High-income countries average ~5% of GDP (~US$8,500–11,400 per child per year), upper-middle-income ~4%, lower-middle-income ~4.6%, and low-income ~3.5% (~US$55 per child per year). The absolute spending gap is roughly **155x** between HICs and LICs.
+- Sub-Saharan Africa allocates 15.5% of total public expenditure to education (a high share), but only 3.5% of GDP in absolute terms.
+- **Household out-of-pocket spending** on education averages **2.1% of GDP** in LMICs versus 0.8% in HICs — poorer country households bear a proportionally larger burden, creating significant equity concerns.
+- **Aid to education** fell 7% in 2024 and is expected to decline **25% between 2023–2027**, the steepest fall since the 1990s. The share of aid going to basic education dropped from 40% (2016) to 30% (2023). ODA represents 12.2% of total education spending in LICs.
+- COVID-19 led to fiscal contractions that squeezed education budgets; total education spending per child either decreased or stagnated globally during 2020–2022, with 4–8 percentage point declines in minimum reading/math proficiency among 15-year-olds in middle-income countries.
 
 ### 5.2 Health
 
-- **Global current health expenditure** averages approximately **10% of GDP** across high-income countries but only **5–6%** in low- and middle-income countries and **~5%** in low-income countries.
+- **Global current health expenditure** averages approximately **10% of GDP** in high-income countries (OECD average public health spending ~5.8% of GDP), but much lower in LMICs. Per capita health spending in HICs is roughly **130x** that of LICs.
 - **Domestic general government health expenditure** averages about **3.5–4%** of GDP in upper-middle-income countries, **1.5–2%** in lower-middle-income countries, and around **1–1.5%** in low-income countries.
-- **Out-of-pocket expenditure** remains high in many LMICs, exceeding 40% of current health expenditure in South Asia and parts of Sub-Saharan Africa, driving impoverishment.
-- **External health expenditure** accounts for over 20% of current health expenditure in many low-income countries, reaching 30–50% in some fragile states, raising sustainability concerns.
+- **Out-of-pocket expenditure** exceeds 50% of total health expenditure in many LICs/LMICs. The proportion of people spending over 10% of household income on medical care rose from 9.4% (2000) to 12.7% (2015) — approximately 1 billion people. Some **89.7 million people** are pushed into extreme poverty annually by OOP health spending.
+- **Development assistance for health (DAH)** declined **21%** between 2024–2025, from US$49.6 billion to US$39.1 billion — the **lowest level since 2009** (IHME). US government health funding is estimated to decline 67% (~US$9 billion) in 2025; DAH for Sub-Saharan Africa fell 25%.
+- **External health expenditure** accounts for over 20% of current health expenditure in many LICs, reaching 30–50% in some fragile states, raising acute sustainability concerns given the DAH decline.
 - The COVID-19 pandemic triggered a surge in health spending in 2020–2021, followed by fiscal consolidation that has, in many countries, reduced health budgets below pre-pandemic trajectories.
 
 ### 5.3 Social Protection
 
-- **Social protection spending** varies enormously: high-income countries spend an average of **15–20% of GDP** (including pensions), upper-middle-income countries spend **8–12%**, lower-middle-income countries spend **3–6%**, and low-income countries spend roughly **1–2% of GDP**.
-- Excluding contributory pensions, **social safety net spending** in low-income countries averages about **1.5% of GDP** — well below the estimated 3–5% needed for adequate coverage.
-- The COVID-19 crisis triggered an unprecedented expansion of social protection, with over 200 countries introducing new programs or expanding existing ones. However, most of these expansions were temporary, and many have since been wound down.
-- **Coverage gaps** remain large: only about 47% of the global population is covered by at least one social protection benefit, dropping to less than 10% in many low-income countries.
+- **Global average social protection spending** (2023): **12.9% of GDP** excluding health, plus 6.5% on healthcare = **19.3% of GDP** total (ILO World Social Protection Report 2024–26). However, this average masks enormous variation.
+- **By income group (2023):** High-income countries spend **24.9% of GDP**, while low-income countries spend just **2.0% of GDP**. Coverage reaches ~71% of the population in upper-middle-income countries but only **9.7%** in low-income countries (barely changed since 2015).
+- Excluding contributory pensions, **social safety net spending** in developing/transition countries averages about **1.5% of GDP** — well below estimated needs.
+- The COVID-19 crisis triggered an unprecedented expansion (OECD public social spending surged from ~20% of GDP in 2019 to ~23% in 2020), but most expansions in LMICs were temporary and have since been wound down.
+- **Financing gap for social protection floors:** An additional **US$1.4 trillion per year** is needed in LMICs (3.3% of aggregate GDP). Low-income countries would need to spend an additional 11.5% of GDP to close the gap, versus 3.2% in LMICs and 1.7% in UMICs.
 
 ### 5.4 Aggregate Human Capital Financing
 
-- Combining education, health (public), and social protection spending, **total public human capital expenditure** in low-income countries averages roughly **6–9% of GDP**, compared to **25–30% of GDP** in high-income OECD countries.
-- The **financing gap** — the difference between current spending and the levels associated with achieving universal access to basic services and the SDGs — has been estimated at **US$3–5 trillion per year** globally, with the largest relative gaps in Sub-Saharan Africa and South Asia.
-- **Fiscal space** for increasing HC spending is constrained by low tax-to-GDP ratios (averaging 10–15% in low-income countries versus 35–45% in high-income countries), rising debt burdens, and competing expenditure demands.
+- Combining education, health (public), and social protection spending, **total public human capital expenditure** in low-income countries averages roughly **6–9% of GDP**, compared to **25–30% of GDP** in high-income OECD countries. The SDG Index benchmark for combined government spending on health and education alone is 15% of GDP — most developing countries fall far short.
+- The **financing gap** — the difference between current spending and the levels associated with achieving the SDGs — has been estimated at **US$2.5–4.3 trillion per year** globally (UN estimate, 2023–2030). IMF estimates that LICs need an additional 16% of 2030 GDP for investments in education, health, water, sanitation, electricity, and roads. The education-specific gap is ~US$97 billion per year; Africa alone faces a US$66 billion per year healthcare financing gap.
+- **Fiscal space** is severely constrained: tax-to-GDP ratios average 10–15% in LICs versus 35–45% in HICs. External debt in developing countries reached **US$11.7 trillion** in 2024, with annual servicing costs of **US$1.6 trillion** — in some African and South Asian countries, debt service now rivals education spending.
+- **External financing is contracting:** Total DAC ODA was US$212.1 billion in 2024 (0.33% of GNI), but fell 7.3% from 2023. The OECD projects a further 9–17% decline in 2025 (up to US$35 billion less), well below the 0.7% GNI target.
 
 ---
 
@@ -300,14 +308,31 @@ The study aims to:
 
 ## Annex: Selected References and Resources
 
-- World Bank. *The Human Capital Project.* https://www.worldbank.org/en/publication/human-capital
+### Data Sources
 - World Bank. *World Development Indicators.* https://databank.worldbank.org/source/world-development-indicators
-- WHO. *Global Health Expenditure Database.* https://apps.who.int/nha/database
-- UNESCO Institute for Statistics. *Education Finance.* http://data.uis.unesco.org/
-- ILO. *World Social Protection Report.* https://www.ilo.org/global/publications/books/WCMS_817572/lang--en/
-- World Bank. *ASPIRE: Atlas of Social Protection Indicators of Resilience and Equity.* https://www.worldbank.org/en/data/datatopics/aspire
-- OECD. *Social Expenditure Database (SOCX).* https://www.oecd.org/social/expenditure.htm
+- World Bank. *Human Capital Data Portal.* https://humancapital.worldbank.org/en/home
+- World Bank. *ASPIRE Database.* https://www.worldbank.org/en/data/datatopics/aspire
 - World Bank. *BOOST Open Budget Data.* https://www.worldbank.org/en/programs/boost-portal
-- IHME. *Global Health Spending.* https://ghdx.healthdata.org/
-- IMF. *Government Finance Statistics.* https://data.imf.org/GFS
+- WHO. *Global Health Expenditure Database.* https://apps.who.int/nha/database
+- UNESCO Institute for Statistics. *Data Browser.* https://databrowser.uis.unesco.org
+- UNESCO UIS. *Repository of Education Expenditure Reports.* https://www.uis.unesco.org/en/data/repository-education-expenditure-reports
+- ILO. *World Social Protection Data Dashboards.* https://www.social-protection.org/gimi/WSPDB.action?id=32
+- OECD. *Social Expenditure Database (SOCX).* https://www.oecd.org/en/data/datasets/social-expenditure-database-socx.html
+- IMF. *Government Finance Statistics (COFOG).* https://data.imf.org/Datasets/GFS_COFOG
+- IHME. *Global Health Spending 1995–2022.* https://ghdx.healthdata.org/record/ihme-data/global-health-spending-1995-2022
+- IHME. *Global Expected Health Spending 2022–2050.* https://ghdx.healthdata.org/record/ihme-data/global-expected-health-spending-2022-2050
 - UNU-WIDER. *Government Revenue Dataset.* https://www.wider.unu.edu/project/government-revenue-dataset
+- SDG Index. *Government Spending on Health and Education.* https://dashboards.sdgindex.org/map/indicators/government-spending-on-health-and-education/
+
+### Key Reports and Publications
+- World Bank. *The Human Capital Project.* https://www.worldbank.org/en/publication/human-capital
+- World Bank. *Education Finance Watch 2024.* https://www.worldbank.org/en/topic/education/publication/education-finance-watch
+- World Bank. *Collapse and Recovery: How COVID-19 Eroded Human Capital and What to Do About It.* https://www.worldbank.org/en/publication/human-capital/publication/collapse-recovery-how-covid-19-eroded-human-capital-and-what-to-do-about-it
+- World Bank. *Investing in Human Capital for a Resilient Recovery.* https://www.worldbank.org/en/publication/changing-wealth-of-nations/publication/investing-in-human-capital-for-a-resilient-recovery-the-role-of-public-finance
+- ILO. *World Social Protection Report 2024–26.* https://www.ilo.org/resource/article/world-social-protection-report-2024-26-figures
+- ILO. *Financing Gaps in Social Protection.* https://www.ilo.org/publications/measuring-financing-gaps-social-protection-achieving-sdg-target-13-global-0
+- UNESCO. *Global Education Monitoring Report 2024/5.* https://www.unesco.org/reports/gem-report/en/2024
+- UNESCO GEM Report. *SCOPE — Finance.* https://www.education-progress.org/en/articles/finance
+- OECD. *Official Development Assistance 2024.* https://www.oecd.org/en/about/news/press-releases/2025/04/official-development-assistance-2024-figures.html
+- IHME. *Financing Global Health Visualization.* https://www.healthdata.org/data-tools-practices/interactive-visuals/financing-global-health
+- Our World in Data. *Financing Healthcare.* https://ourworldindata.org/financing-healthcare
